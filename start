@@ -4,7 +4,7 @@
 _get_ziplink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $UPSTREAM_REPO == "Jepthon-Ar" ]]
+    if [[ $UPSTREAM_REPO == "MKL" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1plZHRob24vemVkcGFja2svYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     elif [[ $UPSTREAM_REPO =~ $regex ]]
@@ -24,7 +24,7 @@ _get_repolink () {
     local regex
     local rlink
     regex='(https?)://github.com/.+/.+'
-    if [[ $UPSTREAM_REPO == "Jepthon-Ar" ]]
+    if [[ $UPSTREAM_REPO == "MKL" ]]
     then
         rlink=`echo "aHR0cHM6Ly9naXRodWIuY29tL1plZHRob24vWkVEX1VTRVJCT1Q=" | base64 -d`
     elif [[ $UPSTREAM_REPO =~ $regex ]]
@@ -45,7 +45,7 @@ _run_catpack_git() {
     $(_run_python_code 'from git import Repo
 import sys
 
-OFFICIAL_UPSTREAM_REPO = "https://github.com/USERBOTJEPTHON/Tele-Jep"
+OFFICIAL_UPSTREAM_REPO = "https://github.com/MTYU62/DFG"
 ACTIVE_BRANCH_NAME = "master"
 
 repo = Repo.init()
@@ -85,7 +85,7 @@ _set_bot () {
     _run_cat_git
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     chmod -R 755 bin
-    echo "    ⫷ جاري بدء بوت جيبثون⫸    "
+    echo "    ⫷ جاري بدء بوت دراكون ⫸    "
     echo "
 
  ─╚╝────╔══╗─╔╗─╔╗──────────

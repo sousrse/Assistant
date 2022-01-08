@@ -1,13 +1,13 @@
 {
-  "name": "جيبثون العربي",
-  "description": "⿻ سورس جيبثون افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬──────────────────── : @Jepthon",
-  "logo": "https://telegra.ph/file/d94c222c321f6d3352842.jpg",
+  "name": "دراكون العربي",
+  "description": "⿻ سورس دراكون افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬──────────────────── : @D_racon",
+  "logo": "https://telegra.ph/file/d41524a18f34255113544.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/USERBOTJEPTHON/JEPTHON-AR/",
+  "repository": "https://github.com/MTYU62/WER",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -61,7 +61,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس - لتلعب ",
-      "value": "https://github.com/USERBOTJEPTHON/JEPTHON-AR",
+      "value": "https://github.com/MTYU62/WER",
       "required": false
     }
   },

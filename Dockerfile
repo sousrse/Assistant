@@ -1,7 +1,7 @@
-FROM MTYU62/WER:alpine
+FROM MTYU62/POIU:alpine
 
 #clonning repo 
-RUN git clone https://github.com/MTYU62/WER.git /root/userbot
+RUN git clone https://github.com/MTYU62/POIU.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 

@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/MTYU62/POIU",
+  "repository": "https://github.com/MTYU62/alhufra",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -61,7 +61,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس - لتلعب ",
-      "value": "https://github.com/MTYU62/POIU",
+      "value": "https://github.com/MTYU62/alhufra",
       "required": false
     }
   },

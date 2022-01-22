@@ -1,13 +1,13 @@
 {
   "name": "دراكون العربي",
   "description": "⿻ سورس دراكون افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬──────────────────── : @D_racon",
-  "logo": "https://telegra.ph/file/d41524a18f34255113544.jpg",
+  "logo": "https://telegra.ph/file/463d459be0429d9d3af6c.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/MTYU62/alhufra",
+  "repository": "https://github.com/Dracon-62/Dragon",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -61,7 +61,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس - لتلعب ",
-      "value": "https://github.com/MTYU62/alhufra",
+      "value": "https://github.com/Dracon-62/Dragon",
       "required": false
     }
   },

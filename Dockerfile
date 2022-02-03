@@ -1,7 +1,7 @@
-FROM Dracon-62/Dragon:alpine
+FROM alhufra/alhufra80:alpine
 
 #clonning repo 
-RUN git clone https://github.com/Dracon-62/Dragon.git /root/userbot
+RUN git clone https://github.com/alhufra/alhufra80.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 

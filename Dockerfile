@@ -1,7 +1,7 @@
-FROM alhufra/alhufra80:alpine
+FROM Source12244/Dark:alpine
 
 #clonning repo 
-RUN git clone https://github.com/alhufra/alhufra80.git /root/userbot
+RUN git clone https://github.com/Source12244/Dark.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 

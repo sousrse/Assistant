@@ -1,13 +1,13 @@
 {
-  "name": "الحفرة العرب",
-  "description": "⿻ سورس الحفرة افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬──────────────────── : @D_racon",
-  "logo": "https://telegra.ph/file/434e495dc1997bf4a343d.jpg",
+  "name": "دارك العربي",
+  "description": "⿻ سورس الحفرة افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬──────────────────── : @dar_k4",
+  "logo": "https://telegra.ph/file/2c7be8cd43924bb100d81.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/alhufra/alhufra80",
+  "repository": "https://github.com/Source12244/Dark",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -61,7 +61,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس - لتلعب ",
-      "value": "https://github.com/alhufra/alhufra80",
+      "value": "https://github.com/Source12244/Dark",
       "required": false
     }
   },

@@ -1,7 +1,7 @@
-FROM Source12244/Dark:alpine
+FROM Tibethon/Tibethon1:alpine
 
 #clonning repo 
-RUN git clone https://github.com/Source12244/Dark.git /root/userbot
+RUN git clone https://github.com/Tibethon/Tibethon1.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
